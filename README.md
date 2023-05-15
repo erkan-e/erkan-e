@@ -1,4 +1,4 @@
-Hi 👋 My name is Erkan
+Hi 👋 I'm Erkan
 ======================
 
 Developer
